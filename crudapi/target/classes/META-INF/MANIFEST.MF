@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: PISP
+Build-Jdk: 17.0.2
+Implementation-Title: crudapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.crud.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/crud
+Main-Class: com.crud.springboot.crudapi.CrudapiApplication
+Created-By: Maven Integration for Eclipse
+
